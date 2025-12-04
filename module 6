@@ -1,0 +1,5 @@
+c = "cats"
+d = "dogs"
+# f-strings are a readable way to embed variables within a string.
+s = f"its raining {c} and {d}."
+print(s)
